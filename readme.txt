@@ -1,1 +1,2 @@
-学习笔记以及其他
+change this file to english
+and it's easy to read
